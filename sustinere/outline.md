@@ -44,6 +44,7 @@ Objetivo:
 - Uso da Design Science Research - excelente para se propor, criar e avaliar artefatos artificiais inéditos - como uma métrica para mensurar experiências arquitetônicas
 
 Explicação das etapas da DSR:
+//
 
 - Etapas - "A pesquisa seguiu a abordagem Design Science Research, estruturada em etapas iterativas: conscientização, sugestão, desenvolvimento, avaliação e conclusão."​​
 - Conscientização - "Durante a etapa de conscientização, foram revisados conceitos como experiência arquitetônica, o modelo circumplexo e métodos de avaliação emocional."​
